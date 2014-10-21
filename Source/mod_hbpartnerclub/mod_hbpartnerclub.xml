@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" client="site" method="upgrade">
+    <name>HB Partnerverein</name>
+    <author>Jochen Stehle</author>
+    <version>1.0.0</version>
+    <description>Shows Link to partner club</description>
+    <files>
+        <filename>mod_hbpartnerclub.xml</filename>
+        <filename module="mod_hbpartnerclub">mod_hbpartnerclub.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+		<folder>css</folder>
+		<folder>images</folder>
+    </files>
+    <config>
+    </config>
+</extension>

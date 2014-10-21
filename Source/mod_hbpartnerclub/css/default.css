@@ -1,0 +1,19 @@
+div.partnerclubBox {
+	border: 1px solid #DDD;
+	width: 100%;
+	margin: 0em 0 1em;
+	//padding: 5px;
+	}
+
+div.partnerclubBox img {
+	width: 96%;
+	display: block; 
+	margin: 2%;
+	}
+
+div.partnerclubBox p {
+	width: 96%; 
+	margin: 2%;
+	font-size: 0.8em;
+	text-align: justify;
+	}
